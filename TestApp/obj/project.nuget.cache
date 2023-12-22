@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/KbvdOfX37uFp3hs0ZV376o1wf+exal2D+C+CuvH6fp3jv22Imgc22i0tNTqHDu9fi/cFZF9TBq2w8HKvMeS/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ricardo\\source\\repos\\ASP.NET-Practice\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ricardo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
